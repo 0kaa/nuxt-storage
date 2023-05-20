@@ -44,7 +44,7 @@
           href="https://nuxt.com/docs"
           class="flex items-center font-medium underline transition-colors underline-offset-4 dark:hover:text-white hover:text-black"
         >
-          <img src="/nuxt.svg" class="h-6 mx-2" />
+          <!-- <img src="/nuxt.svg" class="h-6 mx-2" /> -->
           <p>Nuxt</p>
         </a>
         .
@@ -52,17 +52,17 @@
     </div>
     <div class="flex flex-col grow">
       <a href="https://vercel.com">
-        <img
+        <!-- <img
           src="/vercel.svg"
           alt="Vercel Logo"
           class="my-2 text-white dark:text-white"
-        />
+        /> -->
       </a>
       <a
         href="https://github.com/vercel/examples/tree/main/storage/kv-redis-nuxt"
         class="flex items-center h-8 mt-auto space-x-2 bottom-20 right-20"
       >
-        <img src="/github.svg" alt="GitHub Logo" class="h-6 dark:invert" />
+        <!-- <img src="/github.svg" alt="GitHub Logo" class="h-6 dark:invert" /> -->
         <p class="font-light">Source</p>
       </a>
     </div>
